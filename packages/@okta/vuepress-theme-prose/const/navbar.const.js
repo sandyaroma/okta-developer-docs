@@ -320,6 +320,8 @@ export const guides = [
           },
           { title: "Configure a Global Session Policy and authentication policies",
             guideName: "configure-signon-policy" },
+          { title: "Configure profile enrollment policies",
+            guideName: "configure-profile-enrollment-policies" },
           {
             title: "Add an Identity Provider",
             subLinks: [
@@ -752,8 +754,10 @@ export const guides = [
             title: "Auth JS fundamentals",
             guideName: "archive-auth-js"
           },
-          { title: "Configure Okta Sign-On and App Sign-On Policies",
-            guideName: "archive-configure-signon-policy" },
+          {
+            title: "Configure Okta Sign-On and App Sign-On Policies",
+            guideName: "archive-configure-signon-policy"
+          },
           {
             title: "Embedded Sign-In Widget fundamentals",
             guideName: "archive-embedded-siw"
@@ -769,6 +773,10 @@ export const guides = [
           {
             title: "Add multifactor authentication",
             guideName: "mfa"
+          },
+          {
+            title: "Set up self-service registration",
+            guideName: "archive-set-up-self-service-registration"
           },
           {
             title: "Registration Inline Hook",

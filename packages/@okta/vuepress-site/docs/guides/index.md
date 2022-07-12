@@ -4,6 +4,7 @@ guides:
  - add-an-external-idp
  - archive-auth-js
  - archive-embedded-siw
+ - archive-set-up-self-service-registration
  - archive-registration-inline-hook
  - archive-sign-in-to-spa-authjs
  - archive-sign-in-to-spa-embedded-widget
@@ -16,6 +17,7 @@ guides:
  - common-hook-set-up-steps
  - configure-access-policy
  - configure-native-sso
+ - configure-profile-enrollment-policies
  - configure-signon-policy
  - configure-user-scoped-account-management
  - create-an-api-token
@@ -69,7 +71,6 @@ guides:
  - revoke-tokens
  - saml-tracer
  - session-cookie
- - set-up-self-service-registration
  - shared-sso-android-ios
  - sharing-cert
  - sign-in-to-spa-authjs
@@ -136,7 +137,6 @@ If you're using Okta as an identity layer in your app for the first time, we rec
     * [OAuth 2.0 and OpenID Connect overview](/docs/concepts/oauth-openid/)
     * [Authorization servers](/docs/concepts/auth-servers/)
     * [Policies](/docs/concepts/policies/)
-    * [Set up self-service registration](/docs/guides/set-up-self-service-registration/)
 
 2. Sign users in
 
@@ -145,6 +145,7 @@ If you're using Okta as an identity layer in your app for the first time, we rec
     * [Auth JS fundamentals](/docs/guides/auth-js)
     * [Embedded Okta Sign-In Widget fundamentals](/docs/guides/embedded-siw)
     * [Configure a Global Session Policy and authentication policies](/docs/guides/configure-signon-policy/)
+    * [Configure profile enrollment policies](/docs/guides/configure-profile-enrollment-policies/main/)
 
 3. Authorize
 
