@@ -90,7 +90,7 @@ Documentation for features that have been deprecated are marked with the Depreca
 
 Some changes may not go through the full Beta-EA-GA lifecycle:
 
-*  Bug fixes that change only the incorrect behavior of the bug.
+*  Bug1 fixes that change only the incorrect behavior of the bug.
 * Cosmetic changes, such as changing the label of a field in the administrator UI.
 * Changes that are narrow in scope or effect, or purely additive, such as adding a new attribute.
 
